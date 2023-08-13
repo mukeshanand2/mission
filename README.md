@@ -12,8 +12,7 @@ define a specific port no as 3000/5080/8080 as per your wish
 so Application will start running on that Port.
 
 
-================================================================================================================
-Technical Notes:
+   ## Technical Notes:
 
 ## Table of Contents
 
@@ -62,4 +61,3 @@ The `model` layer defines the data structure, validation, and interaction with t
 
 - **JOI Validation**: JOI validation in the model layer enforces data consistency and prevents invalid data from being stored in the database.
 
-==================================================================================================================================================================
